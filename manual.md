@@ -1,5 +1,7 @@
 # Шпаргалка по Git ([источник](https://training.github.com/downloads/ru/github-git-cheat-sheet/))
 
+<img alt="git logo" src="assets/images/git_logo.png" height="100">
+
 ## Установка Git
 GitHub предоставляет оконное приложение с графическим интерфейсом для выполнения основных операций с репозиторием, и консольную версию Git с автоматическими обновлениями для расширенных сценариев работы.
 
