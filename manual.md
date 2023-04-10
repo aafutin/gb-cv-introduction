@@ -88,4 +88,5 @@ Git будет игнорировать файлы и директории, пе
 * git branch <branch name> - создать ветку
 * git checkout <branch name> - переключиться на ветку
 * git checkout -b <branch name> - создать ветку и переключиться на нее
+* s
 * 
