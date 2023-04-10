@@ -85,7 +85,7 @@ Git будет игнорировать файлы и директории, пе
 
 ## Ветки
 * изменение в мастер
-* git branch - список веток
+* git branch - список веток тест
 * git branch <branch name> - создать ветку
 * git checkout <branch name> - переключиться на ветку
 * git checkout -b <branch name> - создать ветку и переключиться на нее
